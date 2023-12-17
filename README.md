@@ -37,18 +37,16 @@ This project is a comprehensive web application developed as part of an internsh
 
 ## Project Screenshots
 
-![Yoga Registration](https://github.com/varunbiluri/Flexmoney_sde_assignment/blob/main/src/demo/demo%20image.png)
+https://github.com/varunbiluri/Flexmoney_sde_assignment/blob/main/src/demo/demo%20image.png
 
-## Usage
 
-To better visualize the data, it is recommended to use the [JSON Viewer Pro extension](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) for Chrome.
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/yoga-class-registration.git
+   git clone https://github.com/varunbiluri/yoga-class-registration.git
    ```
 
 2. Navigate to the project directory:
